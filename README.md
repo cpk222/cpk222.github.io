@@ -1,6 +1,8 @@
 # cpk222.github.io
 
-I am Cole Kirst, a Senior Journalism Major and Economics Minor at Lehigh University, using this page to hold my Data Journalism class projects and data storytelling assignments. 
+I am Cole Kirst, a Senior Journalism Major and Economics Minor at Lehigh University, using this page to hold my Data Journalism class projects and data storytelling assignments.
+
+![Cole Kirst](https://www.google.com/imgres?imgurl=https%3A%2F%2Flehighsports.com%2Fimages%2F2019%2F9%2F20%2FCole_Kirst_0273_71.jpg&imgrefurl=https%3A%2F%2Flehighsports.com%2Fsports%2Fmens-lacrosse%2Froster%2Fcole-kirst%2F15881&tbnid=KbqxBrIqjBCnhM&vet=12ahUKEwi3846w17TzAhUMn3IEHUG_AHkQMygAegUIARCXAQ..i&docid=VQuYJbl12WWsPM&w=872&h=1181&q=cole%20kirst%20lacrosse&ved=2ahUKEwi3846w17TzAhUMn3IEHUG_AHkQMygAegUIARCXAQ)
 
 [Linkedin page](https://www.linkedin.com/in/cole-kirst-46617a1a7/)
 
