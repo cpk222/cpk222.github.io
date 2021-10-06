@@ -2,7 +2,6 @@
 
 I am Cole Kirst, a Senior Journalism Major and Economics Minor at Lehigh University, using this page to hold my Data Journalism class projects and data storytelling assignments.
 
-
 [Linkedin page](https://www.linkedin.com/in/cole-kirst-46617a1a7/)
 
 ![2020 Dispersion of Lehigh Faculty](https://github.com/cpk222/cpk222/blob/main/J25%20Infographic.png?raw=true)
