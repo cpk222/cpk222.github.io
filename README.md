@@ -5,7 +5,7 @@ I am Cole Kirst, a Senior Journalism Major and Economics Minor at Lehigh Univers
 
 [Linkedin page](https://www.linkedin.com/in/cole-kirst-46617a1a7/)
 
-[The Dispersion of Lehigh Faculty 2019-2020]
+The Dispersion of Lehigh Faculty 2019-2020
 Source: Lehigh University Office of Institutional Research and Strategic Analytics  
 
 ![2020 Dispersion of Lehigh Faculty](https://github.com/cpk222/cpk222/blob/main/J25%20Infographic.png?raw=true)
