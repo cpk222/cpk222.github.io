@@ -6,7 +6,7 @@ I am Cole Kirst, a Senior Journalism Major and Economics Minor at Lehigh Univers
 
 ![2020 Dispersion of Lehigh Faculty](https://github.com/cpk222/cpk222/blob/main/J25%20Infographic.png?raw=true)
 
-![NFL Passing Statistics Weeks 1 and 2](https://github.com/cpk222/cpk222/blob/main/NFL%20Passing%20Statistics%20Weeks%201%20and%202%20(1).png?raw=true)
+![NFL Passing Statistics Weeks 1 and 2](https://github.com/cpk222/cpk222/blob/main/NFL%20Passing%20Statistics%20Weeks%201%20and%202%20(1).png?raw=true){width=50%}
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=102W-KwwjWGnNzmP5eH7UiMV1MCzdnbpX36x4NJnVNr8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
