@@ -29,4 +29,5 @@ This timeline disiplays the history of the New York Jets football team in the Na
 
 # Lehigh University 2019-2020 Undergraduate Enrollment
 The barchart below displays the Undergraduate Enrollment of Lehigh University's different colleges in the academic year of 2019-2020. The enrollment ranges from the College of Arts & Sciences containing the most percentage of students all the way to the General College Division. Attached here is the link to the data set used for the creation of the barchart. [Data Set](https://docs.google.com/spreadsheets/d/1lOdLffDVGFAjUba6GQ9QDdWXMUr2cqFCQkxnp598hY4/edit?usp=sharing!)
+
 [2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
