@@ -26,3 +26,6 @@ This timeline displays the longlasting College Football rivalry of Lehigh and La
 # New York Jets
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1p5oKlugy-LTgdFo8-Un7sFHEg6RbpjR3y_d6_JIW8gw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline disiplays the history of the New York Jets football team in the National Football league. Before they were the Jets, the team were the New York Titans. Two seasons as the Titans, the organization changed its name to the Jets. They played their first game and were defeated by the Boston Patriots. However a couple years later, the Jets won the third annual Super Bowl agaisnt the Baltimore Colts and have been a force in the NFL ever since. 
+
+# Lehigh University 2019-2020 Undergraduate Enrollment
+![2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
