@@ -31,3 +31,6 @@ This timeline disiplays the history of the New York Jets football team in the Na
 The barchart below displays the Undergraduate Enrollment of Lehigh University's different colleges in the academic year of 2019-2020. The enrollment ranges from the College of Arts & Sciences containing the most percentage of students all the way to the General College Division. Attached here is the link to the data set used for the creation of the barchart. [Data Set](https://docs.google.com/spreadsheets/d/1lOdLffDVGFAjUba6GQ9QDdWXMUr2cqFCQkxnp598hY4/edit?usp=sharing!)
 
 [2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
+
+# 2020 Women's Inflation Adjusted Weekly Earnings by educational attainment for full time wage and salary workers   
+The barchart below displays the inflation adjusted weekly earnings by educational attainment for full time wage and salary workers. From the study, you can see that women with a higher level of education receive more on a weekly basis than one without. This has direct effect in the wealth gap between males and females not only in 2020 but in prior years too.   
