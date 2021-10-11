@@ -33,4 +33,6 @@ The barchart below displays the Undergraduate Enrollment of Lehigh University's 
 [2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
 
 # 2020 Women's Inflation Adjusted Weekly Earnings by educational attainment for full time wage and salary workers   
-The barchart below displays the inflation adjusted weekly earnings by educational attainment for full time wage and salary workers. From the study, you can see that women with a higher level of education receive more on a weekly basis than one without. This has direct effect in the wealth gap between males and females not only in 2020 but in prior years too.   
+The barchart below displays the inflation adjusted weekly earnings by educational attainment for full time wage and salary workers. From the study, you can see that women with a higher level of education receive more on a weekly basis than one without. This has direct effect in the wealth gap between males and females not only in 2020 but in prior years too. [Data Set]( https://docs.google.com/spreadsheets/d/1TRLc5kFY0h_xBhU454PotSvTyvEwot04vPloseqyWRI/edit?usp=sharing)
+
+[2020 Women's Inflation Adjusted Weekly Earnings by Educational Attainment](
