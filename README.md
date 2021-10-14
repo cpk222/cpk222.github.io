@@ -30,9 +30,14 @@ This timeline disiplays the history of the New York Jets football team in the Na
 # Lehigh University 2019-2020 Undergraduate Enrollment
 The barchart below displays the Undergraduate Enrollment of Lehigh University's different colleges in the academic year of 2019-2020. The enrollment ranges from the College of Arts & Sciences containing the most percentage of students all the way to the General College Division. Attached here is the link to the data set used for the creation of the barchart. [Data Set](https://docs.google.com/spreadsheets/d/1lOdLffDVGFAjUba6GQ9QDdWXMUr2cqFCQkxnp598hY4/edit?usp=sharing!)
 
-[2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
+![2019 Percent of Undergraduate Enrollment](https://github.com/cpk222/cpk222/blob/main/J25%20Lehigh%20Enrollment%20Barchart.png?raw=true)
 
 # 2020 Women's Inflation Adjusted Weekly Earnings by educational attainment for full time wage and salary workers   
 The barchart below displays the inflation adjusted weekly earnings by educational attainment for full time wage and salary workers. From the study, you can see that women with a higher level of education receive more on a weekly basis than one without. This has direct effect in the wealth gap between males and females not only in 2020 but in prior years too. [Data Set]( https://docs.google.com/spreadsheets/d/1TRLc5kFY0h_xBhU454PotSvTyvEwot04vPloseqyWRI/edit?usp=sharing)
 
-[2020 Women's Inflation Adjusted Weekly Earnings by Educational Attainment](https://github.com/cpk222/cpk222/blob/main/2020_Inflation-Adjusted_Women's_Median_Usual_Weekly_Earnings_Weekly_Earnings_chartbuilder.png?raw=true)
+![2020 Women's Inflation Adjusted Weekly Earnings by Educational Attainment](https://github.com/cpk222/cpk222/blob/main/2020_Inflation-Adjusted_Women's_Median_Usual_Weekly_Earnings_Weekly_Earnings_chartbuilder.png?raw=true)
+
+# Percentages of Students in Each of Lehigh's Three Undergraduate Colleges From 2017-2021
+The timeseries chart displays the percentages of students in each of Lehigh's three undergraduate colleges from 2017-2021. These college of Arts & Sciences, Business, and Engineering, range in different percentages over the past five years. We can make the conclusion from the timecseries chart, that the college of Arts & Sciences has seen an increase in undergraduate enrollemtn, rather than the college of Business and Engineering. 
+
+![Percentages of Students in Each of Lehigh's Three Undergraduate Colleges from 2017-2021](https://github.com/cpk222/cpk222.github.io/blob/main/Percentages_of_Students_in_Lehigh's_Three_Undergraduate_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
