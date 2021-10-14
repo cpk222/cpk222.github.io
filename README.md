@@ -41,3 +41,8 @@ The barchart below displays the inflation adjusted weekly earnings by educationa
 The timeseries chart displays the percentages of students in each of Lehigh's three undergraduate colleges from 2017-2021. These college of Arts & Sciences, Business, and Engineering, range in different percentages over the past five years. We can come to the conclusion from the timecseries chart, that the college of Arts & Sciences has seen an increase in undergraduate enrollment, rather than the college of Business and Engineering. [Data Set]( https://docs.google.com/spreadsheets/d/1B-b89Ay3PJE2y_UmYlb7fnDuwrE8HzmQfxFwW8xzefs/edit?usp=sharing)
 
 ![Percentages of Students in Each of Lehigh's Three Undergraduate Colleges from 2017-2021](https://github.com/cpk222/cpk222.github.io/blob/main/Percentages_of_Students_in_Lehigh's_Three_Undergraduate_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+# 2017 Self-Reported Life Satisfaction vs GDP Per Capita
+The scatter plot presents the self-reported life satisfaction versus GDP per capita in 2017. On the x-axis, the GDP per capita ranges from its minimum of 1,000 per capita to 100,000. On the y-axis in Cantril Ladder, GDP per capita ranges from 0 to 8. Overall, this scatter plot shows the higher the GDP per capita, the higher the life satisfaction in cantril ladder. Both variables have a direct correlation. [Data Set](https://docs.google.com/spreadsheets/d/1B-b89Ay3PJE2y_UmYlb7fnDuwrE8HzmQfxFwW8xzefs/edit?usp=sharing)
+
+![2017 Self-Reported Life Satisfaction vs GDP Per Capita](https://github.com/cpk222/cpk222.github.io/blob/main/2017_Life_Satisfaction_in_Cantril_Ladder_vs_GDP_Per_Capita__Life_Satisfaction_chartbuilder.png?raw=true)
