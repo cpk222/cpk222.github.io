@@ -46,3 +46,8 @@ The timeseries chart displays the percentages of students in each of Lehigh's th
 The scatter plot presents the self-reported life satisfaction versus GDP per capita in 2017. On the x-axis, the GDP per capita ranges from its minimum of 1,000 per capita to 100,000. On the y-axis in Cantril Ladder, GDP per capita ranges from 0 to 8. Overall, this scatter plot shows the higher the GDP per capita, the higher the life satisfaction in cantril ladder. Both variables have a direct correlation. [Data Set](https://docs.google.com/spreadsheets/d/1B-b89Ay3PJE2y_UmYlb7fnDuwrE8HzmQfxFwW8xzefs/edit?usp=sharing)
 
 ![2017 Self-Reported Life Satisfaction vs GDP Per Capita](https://github.com/cpk222/cpk222.github.io/blob/main/2017_Life_Satisfaction_in_Cantril_Ladder_vs_GDP_Per_Capita__Life_Satisfaction_chartbuilder.png?raw=true)
+
+# Wage and Salary Workers Paid Hourly Rates with Earnings At or Below the Prevailing Federal Minimum Wage from 2010-2020
+The scatter plot shows the differences in annual averages in the number of workers paid hourly rates  at or below the prevailing federal minimum wage. There were a larger number of thousands of people who were paid below the federal minimum wage compared to one's who were paid the minimum wage. Both groups of people according to the scatter plot, present a steady decline, and displays the probem in which many fall under both of these categories. This scatter plot is inteded to help present the issue regarding the wage gap. [Data Set](https://docs.google.com/spreadsheets/d/1B-b89Ay3PJE2y_UmYlb7fnDuwrE8HzmQfxFwW8xzefs/edit?usp=sharing)
+
+![Wage and Salary Workers Paid Hourly Rates with Earnings At or Below the Prevailing Federal Minimum Wage from 2010-2020](
