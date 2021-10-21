@@ -51,3 +51,8 @@ The scatter plot presents the self-reported life satisfaction versus GDP per cap
 The scatter plot shows the differences in annual averages in the number of workers paid hourly rates  at or below the prevailing federal minimum wage. There were a larger number of thousands of people who were paid below the federal minimum wage compared to one's who were paid the minimum wage. Both groups of people according to the scatter plot, present a steady decline, and displays the probem in which many fall under both of these categories. This scatter plot is inteded to help present the issue regarding the wage gap. [Data Set](https://docs.google.com/spreadsheets/d/1B-b89Ay3PJE2y_UmYlb7fnDuwrE8HzmQfxFwW8xzefs/edit?usp=sharing)
 
 ![Wage and Salary Workers Paid Hourly Rates with Earnings At or Below the Prevailing Federal Minimum Wage from 2010-2020](https://github.com/cpk222/cpk222.github.io/blob/main/Workers_Paid_Hourly_Rates_Below_or_At_Minimum_Wage_Below_prevailing_federal_minimum_wage_At_prevailing_federal_minimum_wage_chartbuilder.png?raw=true)
+
+# 2019 World's Top 20 Cyclcing Cities
+The map shows the wide range of the top twenty cyclcing cities throughout the world. We can understand from the map that most of the top cities for cyclcing are located throughout Europe. We can make the assumption that this is due to close proximity of homes to occupations and culture throughout the community.
+
+![2019 World's Top 20 Cycling Citites](<iframe src="https://www.google.com/maps/d/embed?mid=1bka8iX6dOzAvhFHhcojCLhkr0bxYaBl5" width="640" height="480"></iframe>)
