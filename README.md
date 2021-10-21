@@ -53,7 +53,7 @@ The scatter plot shows the differences in annual averages in the number of worke
 ![Wage and Salary Workers Paid Hourly Rates with Earnings At or Below the Prevailing Federal Minimum Wage from 2010-2020](https://github.com/cpk222/cpk222.github.io/blob/main/Workers_Paid_Hourly_Rates_Below_or_At_Minimum_Wage_Below_prevailing_federal_minimum_wage_At_prevailing_federal_minimum_wage_chartbuilder.png?raw=true)
 
 # 2019 World's Top 20 Cyclcing Cities
-The map shows the wide range of the top twenty cyclcing cities throughout the world. We can understand from the map that most of the top cities for cyclcing are located throughout Europe. We can make the assumption that this is due to close proximity of homes to occupations and culture throughout the community.
+The map shows the wide range of the top twenty cycling cities throughout the world. We can understand from the map that most of the top cities for cyclcing are located throughout Europe. We can make the assumption that this is due to close proximity of peoples' homes to their occupations and overall culture throughout the community.
 
 ![2019 World's Top 20 Cycling Citites]
-(<iframe src="https://www.google.com/maps/d/embed?mid=1bka8iX6dOzAvhFHhcojCLhkr0bxYaBl5" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/embed?mid=1bka8iX6dOzAvhFHhcojCLhkr0bxYaBl5" width="640" height="480"></iframe>
