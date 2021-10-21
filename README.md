@@ -55,4 +55,4 @@ The scatter plot shows the differences in annual averages in the number of worke
 # 2019 World's Top 20 Cyclcing Cities
 The map shows the wide range of the top twenty cyclcing cities throughout the world. We can understand from the map that most of the top cities for cyclcing are located throughout Europe. We can make the assumption that this is due to close proximity of homes to occupations and culture throughout the community.
 
-![2019 World's Top 20 Cycling Citites](<iframe src="https://www.google.com/maps/d/embed?mid=1bka8iX6dOzAvhFHhcojCLhkr0bxYaBl5" width="640" height="480"></iframe>)
+![2019 World's Top 20 Cycling Citites]
