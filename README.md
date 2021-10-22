@@ -55,3 +55,7 @@ The scatter plot shows the differences in annual averages in the number of worke
 # 2019 World's Top 20 Cycling Cities
 The map below shows the wide range of the top twenty cycling cities throughout the world. We can understand from the map that most of the top cities for cyclcing are located throughout Europe. We can make the assumption that this is due to close proximity of peoples' homes to their occupations and overall culture throughout the community.
 <iframe src="https://www.google.com/maps/d/embed?mid=1bka8iX6dOzAvhFHhcojCLhkr0bxYaBl5" width="640" height="480"></iframe>
+
+# Top 10 Largest National Football League Stadiums by Capacity
+The map below displays the top ten largest National Football League Stadiums by capacity. From the map, we can visualize that the majority of the largest stadiums are on the east coast. Specifically, the largest stadium by capacity is in New Jersey, Metlife Stadium. This is due to the stadium holding two football teams throughout the season. It hosts more regualr season games than any other team and for that reason, host more seats. It is also interesting to note that multiple indoor arenas have large numbers of seats too. The Mercedes-Benz Superdome has close to 74,000 seats which is enclosed to outdoor conditions. Overall, it is very cool to see how close these large football stadiums are to one another and how many seats each stadium hosts.
+<iframe src="https://www.google.com/maps/d/embed?mid=1DOighx2qYtgVlULafoMpM60C6eZ9RW2I" width="640" height="480"></iframe>
