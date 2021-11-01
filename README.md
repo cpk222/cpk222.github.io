@@ -60,5 +60,5 @@ The map below shows the wide range of the top twenty cycling cities throughout t
 The map below displays the top ten largest National Football League Stadiums by capacity. From the map, we can visualize that the majority of the largest stadiums are on the east coast. Specifically, the largest stadium by capacity is in New Jersey, Metlife Stadium. This is due to the stadium holding two football teams throughout the season. It hosts more regualr season games than any other team and for that reason, host more seats. It is also interesting to note that multiple indoor arenas have large numbers of seats too. The Mercedes-Benz Superdome has close to 74,000 seats which is enclosed to outdoor conditions. Overall, it is very cool to see how close these large football stadiums are to one another and how many seats each stadium hosts.
 <iframe src="https://www.google.com/maps/d/embed?mid=1DOighx2qYtgVlULafoMpM60C6eZ9RW2I" width="640" height="480"></iframe>
 
-# PartyData Party Loacation Preference Between Male and Female
-![PartyData Party Loaction Preference Between Male and Female](https://github.com/cpk222/cpk222/blob/main/Dashboard%201.png?raw=true)
+# Party Loacation Preference Between Male and Female
+![Party Loaction Preference Between Male and Female](https://github.com/cpk222/cpk222/blob/main/Dashboard%201.png?raw=true)
