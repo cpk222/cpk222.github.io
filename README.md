@@ -62,3 +62,6 @@ The map below displays the top ten largest National Football League Stadiums by 
 
 # Party Loacation Preference Between Male and Female
 ![Party Loaction Preference Between Male and Female](https://github.com/cpk222/cpk222/blob/main/Dashboard%201.png?raw=true)
+
+# Hill vs. Off-Campus Parties
+![Hill vs. Off-Campus Parties Between Male and Female](https://github.com/cpk222/cpk222.github.io/blob/main/Dashboard%202.png?raw=true)
