@@ -65,3 +65,6 @@ The map below displays the top ten largest National Football League Stadiums by 
 
 # Hill vs. Off-Campus Parties
 ![Hill vs. Off-Campus Parties Between Male and Female](https://github.com/cpk222/cpk222.github.io/blob/main/Dashboard%202.png?raw=true)
+
+# Pixton Future Comic
+![Pixton Future Comic](https://github.com/cpk222/cpk222/blob/main/Kirst_Pixton.png?raw=true)
